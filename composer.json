@@ -1,0 +1,20 @@
+{
+  "name": "stimmenet/Locale_Mage_community_fr_FR",
+  "type": "magento-module",
+  "license":"all rights reserved",
+  "description":"local package for Franz language",
+  "authors":[
+    {
+      "name":"gronau",
+      "email":"gronau@stimme.net"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "extra": {
+    "map": [
+      ["app/locale/*", "app/locale/fr_FR/"]
+    ]
+  }
+}

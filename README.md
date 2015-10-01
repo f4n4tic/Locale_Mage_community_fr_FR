@@ -1,0 +1,1 @@
+# Locale_Mage_community_fr_FR
